@@ -13,5 +13,12 @@ module.exports = {
         "sourceType": "module"
     },
     "rules": {
+        "consistent-return": 0,
+        "array-callback-return": 0,
+        "max-len": 0,
+        "prefer-template": 0,
+        "func-names": 0,
+        "semi": 0,
+        "no-extend-native": 0
     }
 };
