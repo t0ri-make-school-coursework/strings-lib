@@ -5,7 +5,8 @@
   "repository": "https://github.com/t0ri/FEW2.1-libs",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "author": "",
   "license": "ISC",
