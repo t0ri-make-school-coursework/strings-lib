@@ -1,4 +1,6 @@
 ![npm](https://img.shields.io/npm/v/@t0ri/strings)
+[![Build Status](https://travis-ci.com/t0ri/strings-lib.svg?branch=master)](https://travis-ci.com/t0ri/strings-lib)
+[![Coverage Status](https://coveralls.io/repos/github/t0ri/strings-lib/badge.svg?branch=master)](https://coveralls.io/github/t0ri/strings-lib?branch=master)
 ![GitHub stars](https://img.shields.io/github/stars/t0ri/FEW2.1-libs)
 ![GitHub last commit](https://img.shields.io/github/last-commit/t0ri/FEW2.1-libs)
 ![GitHub issues](https://img.shields.io/github/issues/t0ri/FEW2.1-libs)
