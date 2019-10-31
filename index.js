@@ -105,7 +105,7 @@ String.prototype.changeCase = function(option) {
 }
 
 
-// ⬇️ Helpers ⬇️
+// ⬇️ Helpers! ⬇️
 // removePunctuation: filters out punctuation, keeps ' '
 String.prototype.removePunctuation = function() {
   let string = String(this)
