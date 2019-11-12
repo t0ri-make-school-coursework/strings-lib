@@ -1,4 +1,4 @@
-require('../index')
+require('../src/index')
 
 // Challenge 1: capitalize()
 // Make the first character of a given string uppercase
